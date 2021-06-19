@@ -1,10 +1,10 @@
-CHANGES IN VERSION 2.27.1
+CHANGES IN VERSION 2.26.1
 -------------------------
  o Add missing atomic_count_sync.hpp BH file (see PR #248 by vjcitn)
 
-CHANGES IN VERSION 2.27.0
+CHANGES IN VERSION 2.26.0
 -------------------------
- o New Bioc devel version
+ o New Bioc release version
 
 CHANGES IN VERSION 2.25.5
 -------------------------
